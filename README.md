@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LEO JEWELS — Premium Jewellery Storefront
 
 A complete, responsive React + TypeScript + Tailwind storefront for a fictional Indian
@@ -105,3 +106,6 @@ Seed product photography is bundled locally in `public/images/`, so the storefro
 hotlinks product images. Admin-uploaded images are stored in IndexedDB. A branded placeholder
 is shown when an image is missing or unavailable. Replace the seed photography with licensed
 brand photography before production.
+=======
+# leo-jewels
+>>>>>>> 7601561c83e2107ba62bb5b1cebdf8faa8ed96c4
